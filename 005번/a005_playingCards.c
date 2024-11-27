@@ -8,6 +8,9 @@
 #define DIAMOND 3
 #define SCALE 13
 
+int rand_max = 52;
+int rand_min = 1;
+
 
 
 
