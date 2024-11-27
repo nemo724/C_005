@@ -23,7 +23,8 @@
 
 
 int main(void)
-{
+{int check_table[CARDS + 1];
+
 
 
 
